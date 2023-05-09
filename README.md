@@ -3,8 +3,6 @@
   👨🏽‍💻 I am a person who loves to learn new things and seeks to improve day by day by acquiring knowledge and skills. I am very proactive, hardworking and always looking to work on something new to gain more experience. 
   🎯 My current goal is to find a new job opportunity in which I can demonstrate my knowledge and skills, and gain more experience.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=santij25" alt="santij25" /></a> </p>
-
 - 🌱 I’m currently learning **Next.js**
 
 - 📫 How to reach me **santijurado25@gmail.com**
